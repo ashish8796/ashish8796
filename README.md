@@ -4,4 +4,4 @@
 
 </a> -->
 
-[![Twitter Log](./images/twitter-logo-png-58600.png)](https://twitter.com/its__ashish)
+[![Twitter Log](/images/twitter-logo.png)](https://twitter.com/its___ashish)
