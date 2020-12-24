@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
-  <img src="/images/twitter-logo.png" alt="twitter logo" width="20" height="20"/>
+  <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
