@@ -1,15 +1,11 @@
-### Hi there :wave:, I'm Ashish Kumar Saini :india:, an Anspiring Full Stack Developer 
-<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
-
-<a href="https://twitter.com/its___ashish" target="_blank">
+### Hi there :wave:, I'm Ashish Kumar Saini :india:, an Anspiring Full Stack Developer <a href="https://twitter.com/its___ashish" target="_blank">
   <img src="/images/twitter-logo.png" alt="twitter logo" width="20" height="20"/>
 </a> 
 
  <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
   <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
-
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
+<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 
 ## About me
 - 😄 I'm a 24 y.o. <b>B.Tech (ME)</b> from MJPRU, Bareilly. 
