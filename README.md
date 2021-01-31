@@ -7,14 +7,13 @@
  <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
   <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
-I'm <b>Soumitha Bhaskara</b> here 👋
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
 
 ## About me
-- 😄 I'm a 21 y.o. <b>Bsc (MECs)</b> from MVR Institution. 
-- 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
-- 💬 Let's [chat](mailto:soumithaalpineti@gmail.com)!
+- 😄 I'm a 24 y.o. <b>B.Tech (ME)</b> from MJPRU, Bareilly. 
+- 🌱 I’m currently learning about <i>Full Stack Web Development</i>.
+- 💬 Let's [chat](mailto:ashishsaini.ak@gmail.com)!
 
 ## Languages & Tech
 
