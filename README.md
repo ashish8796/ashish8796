@@ -1,4 +1,4 @@
-### Hi there :wave:, I'm Ashish Kumar Saini :india:, an Anspiring Full Stack Developer <a href="https://twitter.com/its___ashish" target="_blank">
+### Hi there :wave:, I'm Ashish Kumar Saini :india:, an Aspiring Full Stack Developer <a href="https://twitter.com/its___ashish" target="_blank">
   <img src="/images/twitter-logo.png" alt="twitter logo" width="20" height="20"/>
 </a> 
 
