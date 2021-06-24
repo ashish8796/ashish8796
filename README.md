@@ -25,6 +25,9 @@
     <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </p>
 
+<div>
+  https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical
+</div>
 <!--
 **soumitha18/soumitha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
