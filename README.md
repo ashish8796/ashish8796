@@ -27,8 +27,8 @@
 
 ### :white_medium_small_square: GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="260px" width="66.75%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="255px" width="32.25%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="260px" width="60%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="255px" width="40%"/>
 </div>
 <!--
 **soumitha18/soumitha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
