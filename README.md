@@ -1,7 +1,5 @@
 ### Hi there :wave:,
 
-<br>
-
 ### About me 🧑:
 
 I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
@@ -10,14 +8,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 When I am not coding, I love reading, listening music and watching cartoons/animation movies.
 
-<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
-
-<br>
-<br>
+<div align="center">
+  <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
+</div>
 
 ## I am Skilled in :
 
-<section  align="center">
+<div  align="center">
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,13 +27,9 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
       <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
-</section>
-
-<br>
+</div>
 
 ### Contact Me :
-
-<br>
 
 <div>
   <a href="https://twitter.com/its___ashish" target="_blank">
@@ -51,8 +44,6 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
     <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="left" alt="Ashish's Email" width="20" height="20"/>
   </a>  
 </div>
-
-<br>
 
 ### :white_medium_small_square: GitHub Stats
 
