@@ -1,4 +1,4 @@
-## Hi there :wave:,
+### Hi there :wave:,
 
 ## :white_medium_small_square: About me 🧑:
 
@@ -10,7 +10,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 When I am not coding, I love reading📖, listening music🎧 and watching cartoons/animation movies🎥.
 
-## Hobbies
+## :white_medium_small_square: Hobbies :
 
 ☕️ Espresso Enthusiast <br/>
 🏃🏼‍♀️ Avid Runner </br>
@@ -49,9 +49,9 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
-## :speech_balloon: Want to know more about me?
+## :white_medium_small_square: Want to know more about me? :speech_balloon: :
 
-You can find my work on my [Portfolio] (https://ashish8796.github.io/portfolio)
+You can find my work on my <a href="https://ashish8796.github.io/portfolio" target="_blank">Portfolio</a>
 
 ## :white_medium_small_square: GitHub Stats 📊 :
 
