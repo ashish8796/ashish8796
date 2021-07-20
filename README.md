@@ -1,6 +1,6 @@
-### Hi there :wave:,
+## Hi there :wave:,
 
-### :white_medium_small_square: About me 🧑:
+## :white_medium_small_square: About me 🧑:
 
 I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
@@ -10,11 +10,17 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 When I am not coding, I love reading📖, listening music🎧 and watching cartoons/animation movies🎥.
 
+## Hobbies
+
+☕️ Espresso Enthusiast <br/>
+🏃🏼‍♀️ Avid Runner </br>
+🧘🏼‍♀️ Yoga lover
+
 <div align="center">
   <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 </div>
 
-### :white_medium_small_square: I am Skilled in :hammer: :
+## :white_medium_small_square: I am Skilled in :hammer: :
 
 <div  align="center">
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +37,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </div>
 
-### :white_medium_small_square: Find Me on📱 :
+## :white_medium_small_square: Find Me on📱 :
 
 <div>
   <a href="https://twitter.com/its___ashish" target="_blank">
@@ -43,7 +49,11 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
-### :white_medium_small_square: GitHub Stats 📊 :
+## :speech_balloon: Want to know more about me?
+
+You can find my work on my [Portfolio] (https://ashish8796.github.io/portfolio)
+
+## :white_medium_small_square: GitHub Stats 📊 :
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
