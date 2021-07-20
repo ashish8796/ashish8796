@@ -1,6 +1,6 @@
 ### Hi there :wave:,
 
-### About me 🧑:
+### :white_medium_small_square: About me 🧑:
 
 I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
@@ -12,7 +12,7 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
   <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 </div>
 
-## I am Skilled in :
+### :white_medium_small_square: I am Skilled in :
 
 <div  align="center">
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </div>
 
-### Contact Me :
+### :white_medium_small_square: Contact Me :
 
 <div>
   <a href="https://twitter.com/its___ashish" target="_blank">
@@ -47,8 +47,9 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
 
 ### :white_medium_small_square: GitHub Stats
 
-<div class="stats" >
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="255px" width="32.25%" />
+
 </div>
