@@ -4,15 +4,17 @@
 
 I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
+I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-When I am not coding, I love reading, listening music and watching cartoons/animation movies.
+When I am not coding, I love reading📖, listening music🎧 and watching cartoons/animation movies🎥.
 
 <div align="center">
   <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 </div>
 
-### :white_medium_small_square: I am Skilled in :
+### :white_medium_small_square: I am Skilled in :hammer: :
 
 <div  align="center">
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +31,7 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </div>
 
-### :white_medium_small_square: Contact Me :
+### :white_medium_small_square: Find Me on📱 :
 
 <div>
   <a href="https://twitter.com/its___ashish" target="_blank">
@@ -38,18 +40,14 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
 
   <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:ashishsaini.ak@gmail.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="left" alt="Ashish's Email" width="20" height="20"/>
-  </a>  
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
-### :white_medium_small_square: GitHub Stats
+### :white_medium_small_square: GitHub Stats 📊 :
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="255px" width="32.25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="254px" width="27.5%" />
 
 </div>
