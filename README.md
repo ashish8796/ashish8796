@@ -16,9 +16,9 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 🏃‍♂️ Avid Runner </br>
 🧘‍♂️ Yoga lover
 
-<div align="center">
+<!-- <div align="center">
   <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
-</div>
+</div> -->
 
 ## :white_medium_small_square: I am Skilled in :hammer: :
 
