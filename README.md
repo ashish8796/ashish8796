@@ -48,8 +48,8 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
 ### :white_medium_small_square: GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="260px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="255px" width="32.25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="240px" width="32.25%" />
 
 </div>
