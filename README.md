@@ -50,6 +50,6 @@ When I am not coding, I love reading, listening music and watching cartoons/anim
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="260px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="240px" width="32.25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="250px" width="32.25%" />
 
 </div>
