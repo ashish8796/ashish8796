@@ -1,63 +1,144 @@
-### Hi there :wave:,
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=ashish876&base23">
 
-## :white_medium_small_square: About me 🧑:
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ashish Kumar Saini!;&center=true&size=30">
+  </a>
+</h1>
 
-I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Ashish Kumar Saini, Full Stack Developer/Coder 💻,  Learner 👨‍💻 from India 🇮🇳.
+  <br />
+  <br />
+  🎓 Currently upskilling myself with Scaler.
+  <br />
+  <br />
+  🧑‍💼 I’m currently upskilling myself in LLD, HLD and System Design.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+</p>
 
-I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-When I am not coding, I love reading📖, listening music🎧 and watching cartoons/animation movies🎥.
-
-## :white_medium_small_square: Hobbies :
-
-☕️ Espresso Enthusiast <br/>
-🏃‍♂️ Avid Runner </br>
-🧘‍♂️ Yoga lover
-
-<!-- <div align="center">
-  <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
-</div> -->
-
-## :white_medium_small_square: I am Skilled in :hammer: :
-
-<div  align="center">
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://reactnative.dev/img/header_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
+<!-- social handles -->
+<div align="center">
+  <!-- gmail -->
+  <a href="mailto:ashishsaini.ak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in//ashish-kumar-saini-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## :white_medium_small_square: Find Me on📱 :
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cpostgres%2Credux%2Cprisma%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cpostgres%2Credux%2Cprisma%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
 
-<div>
-  <a href="https://twitter.com/its___ashish" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter logo" width="20" height="20"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
+<br />
 
-  <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=vercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=vercel%2Cnetlify' alt="learning" />
+        </picture>
+  </a>
+<br />
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
+</p>
+<hr />
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
 </div>
 
-## :white_medium_small_square: Want to know more about me? :speech_balloon: :
+  <hr />
 
-You can find my work on my <a href="https://ashish8796.github.io/portfolio" target="_blank">Portfolio</a>
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashish8796&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashish8796&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8796&theme=default&border=61dafb" alt="Ashish's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=default&border_color=61dafb" alt="Ashish's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- space -->
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+<!-- second row -->
+  <div align=center>
+  <!-- language stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&langs_count=8&layout=compact&border_color=61dafb" alt="ashish's language stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+  <br />
+  <br />
+  <br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashish8796&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashish8796&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashish8796&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="ashish8796's contribution graph" />
+    </picture>
+  </a>
+</p>
 
-## :white_medium_small_square: GitHub Stats 📊 :
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="254px" width="27.5%" />
-
-</div>
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/ashish8796?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
