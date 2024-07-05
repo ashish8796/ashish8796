@@ -38,18 +38,17 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cpostgres%2Credux%2Cprisma%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cpostgres%2Credux%2Cprisma%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
-
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,java,spring,sql&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,java,spring,sql&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,javascript,ts,java,spring,sql&theme=light" alt="skills - 1" />
+      </picture>
+      <br />
+      <!-- second row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redux,prisma,supabase,java,spring,sql&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redux,prisma,supabase,java,spring,sql&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redux,prisma,supabase,java,spring,sql&theme=light" alt="skills - 2" />
+      </picture>
   </a>
 </p>
 <br />
